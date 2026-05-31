@@ -1,0 +1,6 @@
+{
+  "name": "Caçador de Metas",
+  "description": "Rastreador inteligente de metas financeiras com simulações, gamificação e assessoria inteligente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
